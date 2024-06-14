@@ -1,0 +1,1 @@
+Atividade para verificação da aprendizagem referente a Unidade IV da disciplina de Introdução à Ciência da Computação realizada por Felipe de Godoi Corrêa - 2021.1.08.049 e Matheus Reis de Lima - 2018.1.08.052.
